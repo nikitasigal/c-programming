@@ -8,8 +8,6 @@
 
 void PrintCircle(const CIRCLE* c)
 {
-	//Radius: 5.0
-	//Center: [3.0, 2.3]
 	printf("Radius: %2.lf\n", c->radius);
 	printf("Center: ");
 	PrintPoint(&c->center);

@@ -11,4 +11,4 @@ void PrintPoint(const POINT* p);
 int IsEqualPoint(const POINT* p1, const POINT* p2);
 double Distance(const POINT* p1, const POINT* p2);
 
-#endif
+#endif // !POINT_H

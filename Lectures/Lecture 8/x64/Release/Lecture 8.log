@@ -1,8 +1,9 @@
-﻿  circle.cpp
+﻿  Source.cpp
+  circle.cpp
   point.cpp
-  Source.cpp
   Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 9 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   Lecture 8.vcxproj -> C:\Users\paral\source\repos\nikitasigal\c-programming\Lectures\x64\Release\Lecture 8.exe
